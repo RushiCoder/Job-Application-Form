@@ -1,6 +1,6 @@
 # Job-Application-Form :
  
- The website parallax effect is a computer graphics technique in which the website background moves slower than the foreground. This leads to a 3D effect as users scroll down the website, creating an optical illusion and a more profound and surreal browsing experience.
+An application for employment is a standard business document that is prepared with questions deemed relevant by employers. It is used to determine the best candidate to fill a specific role within the company. 
 
 
 ## languages :
